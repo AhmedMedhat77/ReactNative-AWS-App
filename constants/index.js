@@ -1,5 +1,7 @@
-import images from "./images";
-import icons from "./icons";
-import { COLORS, FONT, SIZES, SHADOWS } from "./theme";
+import { Colors } from "react-native/Libraries/NewAppScreen";
+import { FONTS } from "./fonts";
 
-export { images, icons, COLORS, FONT, SIZES, SHADOWS };
+
+export const {
+    COLORS , FONTS
+}
